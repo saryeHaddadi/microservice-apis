@@ -1,0 +1,6 @@
+## To setup the workspace
+# py -m pip install --upgrade pip
+# pip install -r requirements.txt
+fastapi
+uvicorn
+# To uninstall a package: pip uninstall opencv-contrib-python
